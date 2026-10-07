@@ -83,33 +83,33 @@ vulnerabilities:
   - id: CVE-2026-96889
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-2JG2-4CH7-H545
+  - id: GHSA-2jg2-4ch7-h545
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-2XP9-VWFH-VXW4
+  - id: GHSA-2xp9-vwfh-vxw4
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-8H8Q-6873-Q5FJ
+  - id: GHSA-8h8q-6873-q5fj
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-F88M-G3JW-G9CJ
+  - id: GHSA-f88m-g3jw-g9cj
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-G89C-P67H-R497
+  - id: GHSA-g89c-p67h-r497
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-H25M-26QC-WCJF
+  - id: GHSA-h25m-26qc-wcjf
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-MWV6-3258-Q52C
+  - id: GHSA-mwv6-3258-q52c
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-Q4GF-8MX6-V5V3
+  - id: GHSA-q4gf-8mx6-v5v3
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-RGJ7-G3M4-5G8C
+  - id: GHSA-rgj7-g3m4-5g8c
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-WQ5F-XC86-PV6W
+  - id: GHSA-wq5f-xc86-pv6w
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
