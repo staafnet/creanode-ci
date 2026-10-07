@@ -1,0 +1,52 @@
+vulnerabilities:
+  - id: CVE-2025-12758
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-2359
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-32887
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-3304
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-3520
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-35209
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-40345
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-4800
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-4926
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-5079
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-59869
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-59870
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-77078
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-82333
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-84375
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: CVE-2026-90711
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
+  - id: GHSA-5P4M-2WFM-XMQJ
+    expired_at: 2026-11-07
+    statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
