@@ -99,8 +99,8 @@ jobs:
       - name: Build production image
         env:
           DOCKERFILE: ${{ inputs.dockerfile }}
-          DOCKER_CONTEXT: ${{ inputs.docker_context }}
-        run: docker build --pull -f "$DOCKERFILE" -t "creanode-security-target:${{ github.sha }}" "$DOCKER_CONTEXT"
+          BUILD_CONTEXT: ${{ inputs.docker_context }}
+        run: docker build --pull -f "$DOCKERFILE" -t "creanode-security-target:${{ github.sha }}" "$BUILD_CONTEXT"
 
       - name: Security gate
         uses: aquasecurity/trivy-action@ed142fd0673e97e23eac54620cfb913e5ce36c25 # v0.36.0
