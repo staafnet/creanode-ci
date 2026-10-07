@@ -47,6 +47,6 @@ vulnerabilities:
   - id: CVE-2026-90711
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
-  - id: GHSA-5P4M-2WFM-XMQJ
+  - id: GHSA-5p4m-2wfm-xmqj
     expired_at: 2026-11-07
     statement: Legacy finding present at CREANODE security-gate adoption; remediate before expiry.
