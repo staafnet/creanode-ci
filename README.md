@@ -6,7 +6,7 @@ Central, versioned reusable GitHub Actions workflows for CREANODE repositories.
 
 Caller repositories use .github/workflows/security.yml to call:
 
-staafnet/creanode-ci/.github/workflows/security-reusable.yml@main
+staafnet/creanode-ci/.github/workflows/security-reusable.yml@<approved-full-commit-sha>
 
 The reusable gate provides:
 - Trivy repository scanning for HIGH/CRITICAL vulnerabilities, misconfiguration and secrets;
@@ -14,7 +14,7 @@ The reusable gate provides:
 - optional build + Trivy scan of the production Docker image;
 - non-blocking Trivy license inventory for policy visibility.
 
-Security tool and Action versions are pinned centrally. Product repositories should not duplicate scanner implementation.
+Caller workflows must pin this reusable workflow to a full approved commit SHA. Security tool and Action versions are pinned centrally. Product repositories should not duplicate scanner implementation.
 
 ## Legacy-debt adoption
 
